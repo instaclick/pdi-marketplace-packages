@@ -14,3 +14,7 @@ https://github.com/instaclick/PDI-Plugin-Step-BloomFilter
 ### IC AMQP Plugin
 
 https://github.com/instaclick/PDI-Plugin-Step-AMQP
+
+### IC Riak Plugin
+
+https://github.com/instaclick/PDI-Plugin-Step-Riak
