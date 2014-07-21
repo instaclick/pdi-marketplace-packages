@@ -18,3 +18,8 @@ https://github.com/instaclick/PDI-Plugin-Step-AMQP
 ### IC Riak Plugin
 
 https://github.com/instaclick/PDI-Plugin-Step-Riak
+
+
+### Parse json string
+
+https://github.com/instaclick/pdi-plugin-parsejsonstring
